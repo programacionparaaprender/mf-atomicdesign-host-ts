@@ -4,7 +4,7 @@ const ModuleFederationPlugin = require("webpack/lib/container/ModuleFederationPl
 const deps = require("./package.json").dependencies;
 module.exports = {
   output: {
-    publicPath: "https://mf-colorpicker-host-ts.netlify.app/",
+    publicPath: "https://mf-atomicdesign-host-ts.netlify.app/",
     //publicPath: "http://localhost:3000/",
   },
 

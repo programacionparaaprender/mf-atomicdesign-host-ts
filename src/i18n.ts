@@ -17,6 +17,7 @@ const resources: TranslationResources = {
       colorpicker: "Color Picker",
       presentacion: "Presentation",
       googlemaps: "Geocerca",
+      homepage: "Home Page",
     }
   },
   es: {
@@ -24,6 +25,7 @@ const resources: TranslationResources = {
       colorpicker: "Selector de Color",
       presentacion: "Presentación",
       googlemaps: "Geocerca",
+      homepage: "Página bienvenida",
     }
   }
 };
